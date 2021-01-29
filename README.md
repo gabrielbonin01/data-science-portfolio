@@ -22,7 +22,7 @@
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Machine%20learning%20projects/Titanic%20-%20Machine%20Learning%20from%20Disaster/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb">Projet va ici!</a>: A model that use machine learning to predicts which passengers survived the Titanic shipwreck.</li>
 
 </ul>
-<h7>The Magority of those project where done in <a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/">This course</a></h7>
+<h7>***The Majority of those project where done in <a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/">This course</a>***</h7>
 
 <!--- 
 

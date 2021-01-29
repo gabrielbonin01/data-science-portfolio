@@ -1,21 +1,18 @@
 <h1>Data Science Portfolio</h1>
 <p>Data science projects that i have completed for academics or self learning.</p>
 
-alllllo test
 
 
-allo 2
 
-
-<p>For a more visually pleasant experience for browsing the portfolio, check out <a href="http://sajalsharma.com" rel="nofollow">sajalsharma.com</a></p>
-<h4><a id="user-content-the-r-portfolio-is-located-here" class="anchor" aria-hidden="true" href="#the-r-portfolio-is-located-here"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>The R portfolio is located <a href="http://rpubs.com/sajal_sharma/" rel="nofollow">here</a>.</h4>
-<p><em>Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.</em></p>
-<h2><a id="user-content-contents" class="anchor" aria-hidden="true" href="#contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contents</h2>
+<h3>Machine Learning</h3>
 <ul>
-<li>
-<h3><a id="user-content-machine-learning" class="anchor" aria-hidden="true" href="#machine-learning"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Machine Learning</h3>
-<ul>
-<li><a href="https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb">Predicting Boston Housing Prices</a>: A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.</li>
+<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Machine%20learning%20projects/Titanic%20-%20Machine%20Learning%20from%20Disaster/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb">Titanic - Machine Learning from Disaster</a>: A model that use machine learning to predicts which passengers survived the Titanic shipwreck.</li>
+
+
+<!--- 
+
+
+
 <li><a href="https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb">Supervised Learning: Finding Donors for CharityML</a>: Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.</li>
 <li><a href="https://github.com/sajal2692/data-science-portfolio/blob/master/customer_segments/customer_segments.ipynb">Unsupervised Learning: Creating Customer Segments</a>: Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.</li>
 <li><a href="https://github.com/sajal2692/Training-a-Smartcab-to-Drive">Reinforcement Learning: Training a Smartcab to Drive</a>: Creating an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.</li>
@@ -86,3 +83,6 @@ allo 2
 <p>If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at <a href="mailto:contact@sajalsharma.com">contact@sajalsharma.com</a>.</p>
 </article>
     
+
+
+--->

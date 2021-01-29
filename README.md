@@ -7,6 +7,7 @@
 <h3>Machine Learning</h3>
 <ul>
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Machine%20learning%20projects/Titanic%20-%20Machine%20Learning%20from%20Disaster/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb">Titanic - Machine Learning from Disaster</a>: A model that use machine learning to predicts which passengers survived the Titanic shipwreck.</li>
+
 </ul>
 
 
@@ -14,12 +15,13 @@
 <ul>
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Machine%20learning%20projects/Titanic%20-%20Machine%20Learning%20from%20Disaster/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb">Projet va ici!</a>: A model that use machine learning to predicts which passengers survived the Titanic shipwreck.</li>
 
+</ul>
 
 <h3>Mini Projects</h3>
 <ul>
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Machine%20learning%20projects/Titanic%20-%20Machine%20Learning%20from%20Disaster/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb">Projet va ici!</a>: A model that use machine learning to predicts which passengers survived the Titanic shipwreck.</li>
 
-
+</ul>
 
 
 <!--- 

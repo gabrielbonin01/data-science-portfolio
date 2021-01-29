@@ -1,8 +1,7 @@
-# Data science portfolio
-Data science projects that i have completed for academics or self learning
-<div class="Box-body px-5 pb-5">
-        <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-data-science-portfolio" class="anchor" aria-hidden="true" href="#data-science-portfolio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Data Science Portfolio</h1>
-<p>Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).</p>
+<h1>Data Science Portfolio</h1>
+<p>Data science projects that i have completed for academics or self learning.</p>
+
+
 <p>For a more visually pleasant experience for browsing the portfolio, check out <a href="http://sajalsharma.com" rel="nofollow">sajalsharma.com</a></p>
 <h4><a id="user-content-the-r-portfolio-is-located-here" class="anchor" aria-hidden="true" href="#the-r-portfolio-is-located-here"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>The R portfolio is located <a href="http://rpubs.com/sajal_sharma/" rel="nofollow">here</a>.</h4>
 <p><em>Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.</em></p>

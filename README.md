@@ -8,6 +8,9 @@
 <ul>
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Machine%20learning%20projects/Titanic%20-%20Machine%20Learning%20from%20Disaster/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb">Titanic - Machine Learning from Disaster</a>: A model that use machine learning to predicts which passengers survived the Titanic shipwreck.</li>
 
+<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Machine%20learning%20projects/Fisher's%20Iris%20data%20set/Fisher's%20Iris%20data%20set.ipynb">Fisher's Iris data set</a>:  Analyzing the Fisher's Iris data set using the Support vector machines model. Will try to determine if a flowers is an Setosa, Versicolor or Virginica..</li>
+
+
 </ul>
 
 

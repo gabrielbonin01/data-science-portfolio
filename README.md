@@ -19,6 +19,13 @@
 
 </ul>
 
+<h3>Recommender Systems</h3>
+<ul>
+<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Machine%20learning%20projects/Titanic%20-%20Machine%20Learning%20from%20Disaster/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb">Projet va ici!</a>: With a Logistic Regression model and machine learning, i try to predicts which passengers survived the Titanic shipwreck.</li>
+
+</ul>
+
+
 <h3>Mini Projects</h3>
 <ul>
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Mini%20Machine%20learning%20projects/Machine%20Learning%20and%20Logistic%20Regression%20model/Machine%20Learning%20and%20Logistic%20Regression%20model.ipynb">Machine Learning and Logistic Regression model</a>: A classification problem indicating whether or not a particular internet user will click on an ad on an Advertisement on a company website.</li>

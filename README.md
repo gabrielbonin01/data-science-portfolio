@@ -27,7 +27,7 @@
 
 <h3>Natural-Language-Processing</h3>
 <ul>
-<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Natural%20Language%20Processing/SMS%20Spam%20Collection%20Data%20Set/SMS%20Spam%20Collection%20Data%20Set.ipynb">SMS Spam Collection Data Set</a>:In this project, we will work with dataset from the UCI datasets and use the basics of Natural Language Processing. Our goal will be to determine if SMS text are spam or not.</li>
+<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Natural%20Language%20Processing/SMS%20Spam%20Collection%20Data%20Set/SMS%20Spam%20Collection%20Data%20Set.ipynb">SMS Spam Collection Data Set</a>:In this project, we will work with dataset from the UCI data set and use the basics of Natural Language Processing. Our goal will be to determine if SMS text are spam or not.</li>
 
 </ul>
 

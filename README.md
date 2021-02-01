@@ -21,7 +21,7 @@
 
 <h3>Recommender Systems</h3>
 <ul>
-<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Machine%20learning%20projects/Titanic%20-%20Machine%20Learning%20from%20Disaster/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb">Projet va ici!</a>: With a Logistic Regression model and machine learning, i try to predicts which passengers survived the Titanic shipwreck.</li>
+<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Recommender%20Systems/MovieLens%20Recommender%20Systems/MovieLens%20Recommender%20Systems.ipynb">MovieLens Recommender Systems</a>: Developing a basic recommendation systems. Focusing on providing a basic recommendation for the MovieLens dataset by suggesting items that are most similar to a particular movie.</li>
 
 </ul>
 

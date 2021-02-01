@@ -25,7 +25,7 @@
 
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Mini%20Machine%20learning%20projects/Machine%20Learning%20and%20Decision%20Trees%20and%20Random%20Forests/Machine%20Learning%20and%20Decision%20Trees%20and%20Random%20Forests.ipynb">Machine Learning and Decision Trees and Random Forests</a>:  Analyzing a publicly available data set from LendingClub.com and try to predict if a person has a high probability of paying the loan back.</li>
 
-<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Mini%20Machine%20learning%20projects/Machine%20Learning%20and%20Support%20Vector%20Machines/Machine%20Learning%20and%20Support%20Vector%20Machines.ipynb">Machine Learning and Support Vector Machines</a>:  Analyzing the Breast cancer wisconsin (diagnostic) dataset using the Support vector machines model. Will try to determine if a tumor is benign or malignant..</li>
+<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Mini%20Machine%20learning%20projects/Machine%20Learning%20and%20Support%20Vector%20Machines/Machine%20Learning%20and%20Support%20Vector%20Machines.ipynb">Machine Learning and Support Vector Machines</a>:  Analyzing the Breast cancer wisconsin (diagnostic) dataset using the Support vector machines model. Will try to determine if a tumor is benign or malignant.</li>
 
 
 </ul>

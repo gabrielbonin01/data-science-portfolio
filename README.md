@@ -15,7 +15,7 @@
 
 <h3>Deep Learning</h3>
 <ul>
-<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Machine%20learning%20projects/Titanic%20-%20Machine%20Learning%20from%20Disaster/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb">Projet va ici!</a>: With a Logistic Regression model and machine learning, i try to predicts which passengers survived the Titanic shipwreck.</li>
+<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Deep%20Learning%20projects/Lending%20Club%20accepted%20and%20rejected%20loan%20data/Lending%20Club%20accepted%20and%20rejected%20loan%20data.ipynb">Lending Club accepted and rejected loan data</a>: Working with LendingClub DataSet obtained from Kaggle. We will be using a Deep Learning neural network. Our goal here will be to predict whether or not the borrower will pay back the loan or not. This way in the future when we get a new potential customer we can assess whether or not we will accept to lend money..</li>
 
 </ul>
 

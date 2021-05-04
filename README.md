@@ -16,6 +16,9 @@
 <h3>Deep Learning</h3>
 <ul>
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Deep%20Learning%20projects/Lending%20Club%20accepted%20and%20rejected%20loan%20data/Lending%20Club%20accepted%20and%20rejected%20loan%20data.ipynb">Lending Club accepted and rejected loan data</a>: Working with LendingClub DataSet obtained from Kaggle. We will be using a Deep Learning neural network. Our goal here will be to predict whether or not the borrower will pay back the loan or not. Therefore, in the future, for potential new customers, we are able to assess whether we are able to accept their loan application.</li>
+
+<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Deep%20Learning%20projects/Predict%20house%20price%20in%20King%20County%2C%20USA/Predict%20house%20price%20in%20King%20County%2C%20USA.ipynb">For this project, we work with work with the King County house price DataSet obtained from Kaggle. Using a Deep Learning neural network, our goal here will be to predict The price of the house.</li>
+  
   
 
 

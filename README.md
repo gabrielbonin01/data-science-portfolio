@@ -24,7 +24,7 @@
 <h3>Convolutional Neural Networks for Image Classification</h3>
 
 <ul>
-<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Deep%20Learning%20projects/Lending%20Club%20accepted%20and%20rejected%20loan%20data/Lending%20Club%20accepted%20and%20rejected%20loan%20data.ipynb">Lending Club accepted and rejected loan data</a>: Working with LendingClub DataSet obtained from Kaggle. We will be using a Deep Learning neural network. Our goal here will be to predict whether or not the borrower will pay back the loan or not. Therefore, in the future, for potential new customers, we are able to assess whether we are able to accept their loan application.</li>
+<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Convolutional%20Neural%20Networks%20for%20Image%20Classification/Digit%20Recognizer%20with%20the%20MNIST%20dataset.ipynb">Digit Recognizer with the MNIST data</a>:  we work with work with the MNIST DataSet obtained from Kaggle: https://www.kaggle.com/c/digit-recognizer/data. Using a Deep Learning neural network, our goal here will be to predict the Digit on images.</li>
 
 </ul>
 

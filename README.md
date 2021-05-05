@@ -24,7 +24,14 @@
 <h3>Convolutional Neural Networks for Image Classification</h3>
 
 <ul>
-<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Convolutional%20Neural%20Networks%20for%20Image%20Classification/Digit%20Recognizer%20with%20the%20MNIST%20dataset/Digit%20Recognizer%20with%20the%20MNIST%20dataset.ipynb">Digit Recognizer with the MNIST data</a>:  we work with work with the MNIST DataSet obtained from Kaggle. Using a Deep Learning neural network, our goal here will be to predict the Digit on images.</li>
+<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Convolutional%20Neural%20Networks%20for%20Image%20Classification/Digit%20Recognizer%20with%20the%20MNIST%20dataset/Digit%20Recognizer%20with%20the%20MNIST%20dataset.ipynb">Digit Recognizer with the MNIST data</a>:For this project, we work with work with the MNIST DataSet obtained from Kaggle. Using a Deep Learning neural network, our goal here will be to predict the Digit on images.</li>
+
+<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Convolutional%20Neural%20Networks%20for%20Image%20Classification/CIFAR-10%20-%20Object%20Recognition%20in%20Images/CIFAR-10%20Object%20Recognition%20in%20Color%20Images%20RGB.ipynb">CIFAR-10 Object Recognition in Color Images RGB</a>: For this project, we work with work with theCIFAR-10 obtained from Kaggle. Using a Deep Learning neural network, our goal here will be to predict if the image is a:
+
+0 = airplane
+1 = automobile
+2 = bird.</li>
+
 
 </ul>
 

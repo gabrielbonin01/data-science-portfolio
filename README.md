@@ -53,18 +53,17 @@
 
 
 
-
-<h3>Recommender Systems</h3>
-<ul>
-<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Recommender%20Systems/MovieLens%20Recommender%20Systems/MovieLens%20Recommender%20Systems.ipynb">MovieLens Recommender Systems</a>: Developing a basic recommendation system. Focusing on providing a basic recommendation for the MovieLens dataset by suggesting items that are most similar to a particular movie.</li>
-
-</ul>
-
 <h3>Natural-Language-Processing</h3>
 <ul>
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Natural%20Language%20Processing/SMS%20Spam%20Collection%20Data%20Set/SMS%20Spam%20Collection%20Data%20Set.ipynb">SMS Spam Collection Data Set</a>:In this project, we will work with dataset from the UCI data set and use the basics of Natural Language Processing. Our goal will be to determine if SMS text are spam or not.</li>
 
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Natural%20Language%20Processing/Yelp%20Review%20Data%20Set%20from%20Kaggle/Yelp%20Review%20Data%20Set%20from%20Kaggle.ipynb">Yelp Review Data Set from Kaggle</a>:In this project, we will work with dataset Yelp Review Data Set from Kaggle and use the basics of Natural Language Processing. Our goal will be to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews</li>
+
+</ul>
+
+<h3>Recommender Systems</h3>
+<ul>
+<li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Recommender%20Systems/MovieLens%20Recommender%20Systems/MovieLens%20Recommender%20Systems.ipynb">MovieLens Recommender Systems</a>: Developing a basic recommendation system. Focusing on providing a basic recommendation for the MovieLens dataset by suggesting items that are most similar to a particular movie.</li>
 
 </ul>
 

@@ -34,13 +34,12 @@
 
 
 
-</ul>
 
 
 
 
 
-</ul>
+
 
 <h4>Convolutional Neural Networks for Image Classification</h4>
 

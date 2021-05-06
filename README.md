@@ -39,14 +39,14 @@
 
 
 <h3> Recurrent Neural Networks </h3>
-
+<! -- 
 
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Convolutional%20Neural%20Networks%20for%20Image%20Classification/Digit%20Recognizer%20with%20the%20MNIST%20dataset/Digit%20Recognizer%20with%20the%20MNIST%20dataset.ipynb">Digit Recognizer with the MNIST data</a>: For this project, we work with work with the MNIST DataSet obtained from Kaggle. Using a Deep Learning neural network, our goal here will be to predict the Digit on images.</li>
 
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Convolutional%20Neural%20Networks%20for%20Image%20Classification/CIFAR-10%20-%20Object%20Recognition%20in%20Images/CIFAR-10%20Object%20Recognition%20in%20Color%20Images%20RGB.ipynb">CIFAR-10 Object Recognition in Color Images RGB</a>: For this project, we work with work with theCIFAR-10 obtained from Kaggle. Using a Deep Learning neural network, our goal here will be to predict if the image is an airplane, automobile, bird...</li>
 
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Convolutional%20Neural%20Networks%20for%20Image%20Classification/Malaria%20Cell%20Images%20Dataset/Malaria%20Cell%20Images%20Dataset.ipynb">Malaria Cell Images Dataset</a>: For this project, we work with work with the Malaria Cell Images Dataset obtained from Kaggle. Using a Deep Learning neural network, our goal here will be to predict if a cell is Infected or Uninfected by Malaria.</li>
-
+--> 
 
 </ul>
 </ul>

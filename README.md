@@ -19,7 +19,7 @@
 
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Deep%20Learning%20projects/Predict%20house%20price%20in%20King%20County%2C%20USA/Predict%20house%20price%20in%20King%20County%2C%20USA.ipynb">Predict house price in King County, USA</a>For this project, we work with work with the King County house price DataSet obtained from Kaggle. Using a Deep Learning neural network, our goal here will be to predict The price of the house.</li>
 
-<h4>Convolutional Neural Networks for Image Classification</h4>
+<h3>Convolutional Neural Networks for Image Classification</h3>
 
 <ul>
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Convolutional%20Neural%20Networks%20for%20Image%20Classification/Digit%20Recognizer%20with%20the%20MNIST%20dataset/Digit%20Recognizer%20with%20the%20MNIST%20dataset.ipynb">Digit Recognizer with the MNIST data</a>: For this project, we work with work with the MNIST DataSet obtained from Kaggle. Using a Deep Learning neural network, our goal here will be to predict the Digit on images.</li>
@@ -41,7 +41,7 @@
 
 
 
-<h4>Convolutional Neural Networks for Image Classification</h4>
+<h3>Convolutional Neural Networks for Image Classification</h3>
 
 
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Convolutional%20Neural%20Networks%20for%20Image%20Classification/Digit%20Recognizer%20with%20the%20MNIST%20dataset/Digit%20Recognizer%20with%20the%20MNIST%20dataset.ipynb">Digit Recognizer with the MNIST data</a>: For this project, we work with work with the MNIST DataSet obtained from Kaggle. Using a Deep Learning neural network, our goal here will be to predict the Digit on images.</li>

@@ -37,9 +37,9 @@
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Convolutional%20Neural%20Networks%20for%20Image%20Classification/Malaria%20Cell%20Images%20Dataset/Malaria%20Cell%20Images%20Dataset.ipynb">Malaria Cell Images Dataset</a>: For this project, we work with work with the Malaria Cell Images Dataset obtained from Kaggle. Using a Deep Learning neural network, our goal here will be to predict if a cell is Infected or Uninfected by Malaria.</li>
 
 
-<h3> Recurrent Neural Networks </h3>
-COMING SOON
 <!-- 
+<h3> Recurrent Neural Networks </h3>
+ 
 
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Convolutional%20Neural%20Networks%20for%20Image%20Classification/Digit%20Recognizer%20with%20the%20MNIST%20dataset/Digit%20Recognizer%20with%20the%20MNIST%20dataset.ipynb">Digit Recognizer with the MNIST data</a>: For this project, we work with work with the MNIST DataSet obtained from Kaggle. Using a Deep Learning neural network, our goal here will be to predict the Digit on images.</li>
 

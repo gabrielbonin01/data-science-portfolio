@@ -32,18 +32,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<h3>Convolutional Neural Networks for Image Classification</h3>
+<h3> Recurrent Neural Networks </h3>
 
 
 <li><a href="https://github.com/gabrielbonin01/data-science-portfolio/blob/main/Data%20science%20portfolio/Convolutional%20Neural%20Networks%20for%20Image%20Classification/Digit%20Recognizer%20with%20the%20MNIST%20dataset/Digit%20Recognizer%20with%20the%20MNIST%20dataset.ipynb">Digit Recognizer with the MNIST data</a>: For this project, we work with work with the MNIST DataSet obtained from Kaggle. Using a Deep Learning neural network, our goal here will be to predict the Digit on images.</li>
